@@ -1,0 +1,30 @@
+.hero {
+  height: 100vh;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(77, 60, 60, 0.5)), url("/images/hero-banner.png");
+  background-size: cover;
+  background-position: center;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #f2f6d0;
+  text-align: center;
+}
+
+.hero h1 {
+  font-family: var(--font-title);
+  color: #f2f6d0;
+  font-size: 4rem;
+  letter-spacing: 5px;
+  text-transform: uppercase;
+  margin-bottom: 20px;
+  animation: slideIn 1s ease-out;
+}
+
+.hero p {
+  font-family: var(--font-text);
+  font-size: 1.5rem;
+  letter-spacing: 2px;
+  margin-bottom: 30px;
+  animation: slideIn 1.2s ease-out;
+}

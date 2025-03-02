@@ -1,0 +1,10 @@
+@import url(../settings/variables.css);
+@import url(../generic/reset.css);
+@import url(../generic/layout.css);
+
+@import url(../elements/navbar.css);
+@import url(../elements/hero.css);
+@import url(../elements/about.css);
+@import url(../elements/skills.css);
+@import url(../elements/projects.css);
+@import url(../elements/socials.css);

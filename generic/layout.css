@@ -1,9 +1,9 @@
 .container {
-  max-width: 1200px;
+  max-width: 75rem;
   margin: 0 auto;
   padding: 0 2rem;
   text-align: center;
 }
 .hr {
-  color: 1px sold #f2f6d0;
+  color: 0.0625rem sold #f2f6d0;
 }

@@ -1,7 +1,9 @@
+/* Settings */
 @import url(../settings/variables.css);
+/* Generic */
 @import url(../generic/reset.css);
 @import url(../generic/layout.css);
-
+/* Elements */
 @import url(../elements/navbar.css);
 @import url(../elements/hero.css);
 @import url(../elements/about.css);

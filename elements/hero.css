@@ -13,18 +13,17 @@
 
 .hero h1 {
   font-family: var(--font-title);
-  color: #f2f6d0;
   font-size: 4rem;
-  letter-spacing: 5px;
+  letter-spacing: 0.3125rem;
   text-transform: uppercase;
-  margin-bottom: 20px;
+  margin-bottom: 1.25rem;
   animation: slideIn 1s ease-out;
 }
 
 .hero p {
   font-family: var(--font-text);
   font-size: 1.5rem;
-  letter-spacing: 2px;
-  margin-bottom: 30px;
+  letter-spacing: 0.125rem;
+  margin-bottom: 1.875rem;
   animation: slideIn 1.2s ease-out;
 }

@@ -1,5 +1,5 @@
 .about {
-  padding: 50px 0;
+  padding: 6.25rem 0;
   background-color: #222;
 }
 
@@ -7,16 +7,16 @@
   font-family: var(--font-title);
   font-size: 2.5rem;
   color: #d98324;
-  letter-spacing: 3px;
+  letter-spacing: 0.1875rem;
   text-transform: uppercase;
-  margin-bottom: 20px;
+  margin-bottom: 1.25rem;
 }
 
 .about p {
   font-family: var(--font-text);
   font-size: 1.25rem;
   color: #aaa;
-  max-width: 800px;
+  max-width: 50rem;
   margin: 0 auto;
   line-height: 200%;
 }
